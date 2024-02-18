@@ -12,6 +12,14 @@ matrix: @qlp:matrix.org
 
 This is my whole journey until now. I started coding when I was 11 years old.
 
+## shoelace crate
+
+Their was an exercise with advent of code to calculate the service area of a weird shape.
+
+I learned about the [shoelace formula](https://en.wikipedia.org/wiki/Shoelace_formula) and wrote a rust crate for it.
+
+[View on github](https://github.com/sempruijs/shoelace-crate)
+
 ## nixos config
 
 I learned more and more about NixOS by building my own configuration.
