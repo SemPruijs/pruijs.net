@@ -12,6 +12,12 @@ matrix: @qlp:matrix.org
 
 This is my whole journey until now. I started coding when I was 11 years old.
 
+## nixos config
+
+I learned more and more about NixOS by building my own configuration.
+
+[View on github](https://github.com/sempruijs/nixos-config)
+
 ## audio from yt
 
 I wanted to scrape audio from youtube.
