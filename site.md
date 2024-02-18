@@ -12,6 +12,14 @@ matrix: @qlp:matrix.org
 
 This is my whole journey until now. I started coding when I was 11 years old.
 
+## audio from yt
+
+I wanted to scrape audio from youtube.
+ytdlp had so many flags and options that I always forgot how to use it.
+That's why I wrote a flake for it so that I could use it with more easy.
+
+[View on github](https://github.com/sempruijs/audio-from-yt)
+
 ## Learn nix language
 
 I wanted to get better at nix.
