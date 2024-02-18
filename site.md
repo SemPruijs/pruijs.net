@@ -1,7 +1,9 @@
 # Sem Pruijs
 
 I like to code. You can find my projects here and on [my github](https://github.com/sempruijs/)
+
 You can contact me via:
+
 
 email: contact@pruijs.net
 matrix: @qlp:matrix.org
@@ -9,6 +11,14 @@ matrix: @qlp:matrix.org
 # Projects
 
 This is my whole journey until now. I started coding when I was 11 years old.
+
+## Learn nix language
+
+I wanted to get better at nix.
+Nix is the best buildsystem with the worst language.
+The syntax is so unlogical, I had to learn it :)
+
+[View on github](https://github.com/sempruijs/learn-nix-lang)
 
 ## ye
 
