@@ -17,12 +17,23 @@
         in {
           packages = {
             # add build phases here
-            # default = 
+            default = pkgs.stdenv.mkDerivation {
+              name = "Personal site";
+              src = ./.;
+              buildInputs = with pkgs; [ pandoc ];
+                buildPhase = ''
+                pandoc site.md -o index.html
+              '';
+              installPhase = ''
+                mkdir $out
+                cp index.html $out/index.html
+              '';
+            };
           };
           devShells = {
             default = pkgs.mkShell {
               # add your developer tools here
-              buildInputs = with pkgs; [ ponysay ];
+              buildInputs = with pkgs; [ pandoc ];
             };
           };
         };
