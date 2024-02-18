@@ -20,6 +20,16 @@ You can look at my solutions in my advent of code mono repository.
 
 [View on github](https://github.com/sempruijs/aoc)
 
+## Coding with eyes closed
+
+I wrote my first book.
+It a book for rehabilitative coders.
+You can read it online.
+
+[View book](https://codingwitheyesclosed.com)
+
+[View on github](https://github.com/sempruijs/coding-with-eyes-closed)
+
 ## shoelace crate
 
 Their was an exercise with advent of code to calculate the service area of a weird shape.
