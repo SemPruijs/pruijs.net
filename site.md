@@ -12,6 +12,14 @@ matrix: @qlp:matrix.org
 
 This is my whole journey until now. I started coding when I was 11 years old.
 
+## Advent of code 2023
+
+I solved a lot of advent of code puzzels in 2023 with rust.
+
+You can look at my solutions in my advent of code mono repository.
+
+[View on github](https://github.com/sempruijs/aoc)
+
 ## shoelace crate
 
 Their was an exercise with advent of code to calculate the service area of a weird shape.
