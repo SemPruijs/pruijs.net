@@ -1,8 +1,14 @@
 # Sem Pruijs
-## About
 
-HI :)
-On this website you can find some projects that I have worked on over the years. You can search by name or by topic, such as web, or game. To get the most update list of what I am working on, checkout my github.
+I like to code. You can find my projects here and on [my github](https://github.com/sempruijs/)
+You can contact me via:
+
+email: contact@pruijs.net
+matrix: @qlp:matrix.org
+
+# Projects
+
+This is my whole journey until now. I started coding when I was 11 years old.
 
 ## ye
 
