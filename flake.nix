@@ -15,9 +15,10 @@
       perSystem = { config, self', inputs', pkgs, system, ... }:
         let
         in {
-          packages = {
+          packages = rec {
             # add build phases here
-            default = pkgs.stdenv.mkDerivation {
+            default = site;
+            site = pkgs.stdenv.mkDerivation {
               name = "Personal site";
               src = ./.;
               buildInputs = with pkgs; [ pandoc ];
