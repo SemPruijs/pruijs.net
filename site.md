@@ -74,43 +74,43 @@ A simple cli for generating sha256 hashes.
 
 ## new read
 
-new-read is a new way of spelling dutch words so people with dyslexia can't write words the wrong way anymore. This is done by eliminating different ways to write the same sound. The nrc (new read converter) is wirtten in rust and I made a super small sort of language to define string convertions. I also used clap (command line argument parser) a rust crate to generate nice help menus for the cli.
+new-read is a new way of spelling dutch words so people with dyslexia can't write words the wrong way anymore. This is done by eliminating different ways to write the same sound. The nrc (new read converter) is written in rust and I made a super small sort of language to define string convertions. I also used clap (command line argument parser) a rust crate to generate nice help menus for the cli.
 
 [View on github](https://github.com/sempruijs/new-read)
 
 ## randaam cli
 
-It was time to use rust in my own projects. Randaam, the app that I mad when I was little as a command-line intervace. I published a crate on crates.io for the first time and written some documentation so people could read it on docs.rs
+It was time to use rust in my own projects. Randaam, the app that I mad when I was little as a command-line interface. I published a crate on crates.io for the first time and written some documentation so people could read it on docs.rs
 
 [View on github](https://github.com/sempruijs/randaam-cli)
 
 ## The Rust programming language
 
-As I learned from ka.pruijs.net and using javascript, error messages are very important, especially when you have a visual imperment. I've heard from other people that rust has amazing error messages and is becoming very populair because of its spead and safety. So I decided to learn the language mainly because of those error messages and its very strict type system which is also very important for a language when you have a visual imperment. Debugging is slower when you do not see that much, so not having to figure out what value what type is is a big plus. I read it from start to finish, and as I read more of the book, my sight became a bit better so I switched to Helix, which is a editor with vim-key bindings. I think I know rust the best of all languages that I used so far and it has become one of my favorites.
+As I learned from ka.pruijs.net and using javascript, error messages are very important, especially when you have a visual impairment. I've heard from other people that rust has amazing error messages and is becoming very popular because of its speed and safety. So I decided to learn the language mainly because of those error messages and its very strict type system which is also very important for a language when you have a visual impairment. Debugging is slower when you do not see that much, so not having to figure out what value what type is is a big plus. I read it from start to finish, and as I read more of the book, my sight became a bit better so I switched to Helix, which is a editor with vim-key bindings. I think I know rust the best of all languages that I used so far and it has become one of my favorites.
 
 [View on github](https://github.com/sempruijs/learn-rust)
 
 ## Contributing to open source
 
-I did a few small cuntributions to element X for ios, element X is a matrix client, and made issues and small pull requests here and there. I learned the whole process of forking a repository, making changes on a branch and reading the contribution guidelines. I learned allot from contributing to open source, my main concern regarding my visual imperment, was if I was capable enough to collaborate with other people and reading allot of code that other people have wirtten. When I started it was pretty hard, but with enough practice was it possible and now I do not find it so hard anymore. I will keep contributing to open source to make software more accessible. You can look at my github to explore the places where my contributions are
+I did a few small contributions to element X for ios, element X is a matrix client, and made issues and small pull requests here and there. I learned the whole process of forking a repository, making changes on a branch and reading the contribution guidelines. I learned allot from contributing to open source, my main concern regarding my visual impairment, was if I was capable enough to collaborate with other people and reading allot of code that other people have written. When I started it was pretty hard, but with enough practice was it possible and now I do not find it so hard anymore. I will keep contributing to open source to make software more accessible. You can look at my github to explore the places where my contributions are
 
 [View on github](https://github.com/sempruijs/)
 
 ## PAKS
 
-A website where you can drum simple rythms that also has great intergration with braille displays. I did not learn anything new except a bit with html textfields, I used the skills that I had learned from ka and made something new. It was nice to see that visual and non visual people could drum a rithm together
+A website where you can drum simple rhythms that also has great integration with braille displays. I did not learn anything new except a bit with html text fields, I used the skills that I had learned from ka and made something new. It was nice to see that visual and non visual people could drum a  rhythm together
 
 [View on github](https://github.com/sempruijs/paks)
 
 ## kenmerkende aspecten
 
-Maybe this is one of my greatest accomplishments. I learned to program without my vision, and navigating my computer just with a screen-reader. But I learned one other important thing too! Never use javascript period. Because of my visual imparement, if you would see "object is undifined", you could figure out what the bug is if you stare a bit. (when your lucky) But when I lost my vission this was horrible! I had to read every sentence in my script with braille to figure out where that one copital letter is that jambels it all up. So, I learned typescript. With typescript the compiler should me the bug. But I wanted to deploy my site so I learned about CI/CD. My brother is a big Nix fan so he encouraged me to make my build process reproducable with a Nix flake. I learned more about dev-shells and configured MacOS with Nix Darwin and the home-manager. The website is not that impresive, it helps you remembering dutch historical facts, but this is the first project that was succesful when trying to develop with my visual imperment, makes me feel very happy about ka.pruijs.net
+Maybe this is one of my greatest accomplishments. I learned to program without my vision, and navigating my computer just with a screen-reader. But I learned one other important thing too! Never use javascript period. Because of my visual impairment, if you would see "object is undefined", you could figure out what the bug is if you stare a bit. (when your lucky) But when I lost my sight this was horrible! I had to read every sentence in my script with braille to figure out where that one capital letter is that mess it all up. So, I learned typescript. With typescript the compiler should me the bug. But I wanted to deploy my site so I learned about CI/CD. My brother is a big Nix fan so he encouraged me to make my build process reproducible with a Nix flake. I learned more about dev-shells and configured MacOS with Nix Darwin and the home-manager. The website is not that impressive, it helps you remembering dutch historical facts, but this is the first project that was successful when trying to develop with my visual impairment, makes me feel very happy about ka.pruijs.net
 
 [View on github](https://github.com/sempruijs/ka)
 
 ## learn you a haskell for great good
 
-This is an introduction to Haskell. A functional programming language. Do I never read it from start to finish, haskell influenced me so much that I try in every language to write only pure functions and elliminate state as much as possible. Pure functions are the way to move forward and in almost all cases (not games) is writing only pure functions the best long-term approach for a project.
+This is an introduction to Haskell. A functional programming language. Do I never read it from start to finish, haskell influenced me so much that I try in every language to write only pure functions and eliminate state as much as possible. Pure functions are the way to move forward and in almost all cases (not games) is writing only pure functions the best long-term approach for a project.
 
 [View on github](https://github.com/sempruijs/learn-haskell)
 
@@ -157,7 +157,7 @@ Music Share Hub (I know it's not the best name) is a little project that I made 
 
 ## Relaxed Legs
 
-A endless runner that I made on my own. I learned a few things that are important for game development. I worked on it alone from start to finish. I did the appstore connect uploading all on my own and I made my first Apple Tv and my first Mac application and uploaded them on the app store. I really enjoyed seeing my app on the Apple tv because the screen is so much bigger than a phone. I didn't spent to much time on it because it was not a "new" concept but I did finish it to the end which felt very rewarding.
+A endless runner that I made on my own. I learned a few things that are important for game development. I worked on it alone from start to finish. I did the app store connect uploading all on my own and I made my first Apple Tv and my first Mac application and uploaded them on the app store. I really enjoyed seeing my app on the Apple tv because the screen is so much bigger than a phone. I didn't spent to much time on it because it was not a "new" concept but I did finish it to the end which felt very rewarding.
 
 [View on github](https://github.com/sempruijs/RelaxedLegs)
 
@@ -223,7 +223,7 @@ I want to make games. But Xcode was not the best way to do so. So I learned the 
 
 ## Tic Tac Pro
 
-Tic Tac Pro is Tic Tac Toe but then you could play on a 3x3, a 4x4 bord and a 5x5 board. It was time to apply my knowledge from Learn to code 1, 2 and 3 and Intro to App Development with Swift to make an app! My brother said: A great practice to test you skills is to make Tic Tac Toe. It was a great tip from him and I started making Tic Tac Toe. I want to release the app so it had to have a cool feature. A 4x4 board and a 5x5 board. I spend too much time on this feature and when it was done, I came to a conclusion that it was not fun to play on a 4x4 board and a 5x5 board because who begins wins. :( This was painful to see and I learned something very important: PLAY TEST!, I could've just grabbed a piece of paper and test with a friend if this concept was fun to play. I did learn more about programming and writing elegant code.
+Tic Tac Pro is Tic Tac Toe but then you could play on a 3x3, a 4x4 board and a 5x5 board. It was time to apply my knowledge from Learn to code 1, 2 and 3 and Intro to App Development with Swift to make an app! My brother said: A great practice to test you skills is to make Tic Tac Toe. It was a great tip from him and I started making Tic Tac Toe. I want to release the app so it had to have a cool feature. A 4x4 board and a 5x5 board. I spend too much time on this feature and when it was done, I came to a conclusion that it was not fun to play on a 4x4 board and a 5x5 board because who begins wins. :( This was painful to see and I learned something very important: PLAY TEST!, I could've just grabbed a piece of paper and test with a friend if this concept was fun to play. I did learn more about programming and writing elegant code.
 
 [View on github](https://github.com/sempruijs/TicTacPro)
 
@@ -236,7 +236,7 @@ Learn to code 1, 2 and 3 are three programming courses on swift playground on th
 
 ## Randaam
 
-My dream was making an app for the app store. So I installed Xcode. I followed the first few chapters and I thought I knew enough and started making Randaam. Randaam is a dutch random person generator. It was build with Swift and UIkit. The most important skill was how to google. I knew what I was writing and how to write it but progress was going slow. I think that is because I had too little knowledge about UIkit and programming in general. My dad put the app on the app store with his appstore connect account. It was really fun to make it and I learned ALLOT from it. I am happy that my brother forced me to use git and now the project is on github. :) Later I remade Randaam with swiftUI.
+My dream was making an app for the app store. So I installed Xcode. I followed the first few chapters and I thought I knew enough and started making Randaam. Randaam is a dutch random person generator. It was build with Swift and UIkit. The most important skill was how to google. I knew what I was writing and how to write it but progress was going slow. I think that is because I had too little knowledge about UIkit and programming in general. My dad put the app on the app store with his app store connect account. It was really fun to make it and I learned ALLOT from it. I am happy that my brother forced me to use git and now the project is on github. :) Later I remade Randaam with swiftUI.
 
 [View on github](https://github.com/sempruijs/randaam)
 
