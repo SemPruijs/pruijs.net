@@ -14,7 +14,7 @@ This is my whole journey until now. I started coding when I was 11 years old.
 
 ## Advent of code 2023
 
-I solved a lot of advent of code puzzels in 2023 with rust.
+I solved a lot of advent of code puzzles in 2023 with rust.
 
 You can look at my solutions in my advent of code mono repository.
 
@@ -55,14 +55,14 @@ That's why I wrote a flake for it so that I could use it with more easy.
 ## Learn nix language
 
 I wanted to get better at nix.
-Nix is the best buildsystem with the worst language.
-The syntax is so unlogical, I had to learn it :)
+Nix is the best build system with the worst language.
+The syntax is horrible so I had to learn it :)
 
 [View on github](https://github.com/sempruijs/learn-nix-lang)
 
 ## ye
 
-A cli for fetching Kanye West quotes. I learned a bit more about using aync await in rust with the tokyo crate, and I used serde, a crate to convert different types of data formatting, so that I could convert json to an instance of a rust struct. This was made with the kanye.rest api.
+A cli for fetching Kanye West quotes. I learned a bit more about using async await in rust with the tokyo crate, and I used serde, a crate to convert different types of data formatting, so that I could convert json to an instance of a rust struct. This was made with the kanye.rest api.
 
 [View on github](https://sempruijs/ye)
 
@@ -74,7 +74,7 @@ A simple cli for generating sha256 hashes.
 
 ## new read
 
-new-read is a new way of spelling dutch words so people with dyslexia can't write words the wrong way anymore. This is done by eliminating different ways to write the same sound. The nrc (new read converter) is written in rust and I made a super small sort of language to define string convertions. I also used clap (command line argument parser) a rust crate to generate nice help menus for the cli.
+new-read is a new way of spelling dutch words so people with dyslexia can't write words the wrong way anymore. This is done by eliminating different ways to write the same sound. The nrc (new read converter) is written in rust and I made a super small sort of language to define string conversions. I also used clap (command line argument parser) a rust crate to generate nice help menus for the cli.
 
 [View on github](https://github.com/sempruijs/new-read)
 
