@@ -12,14 +12,6 @@ matrix: @qlp:matrix.org
 
 This is my whole journey until now. I started coding when I was 11 years old.
 
-## Advent of code 2023
-
-I solved a lot of advent of code puzzles in 2023 with rust.
-
-You can look at my solutions in my advent of code mono repository.
-
-[View on github](https://github.com/sempruijs/aoc)
-
 ## Coding with eyes closed
 
 I wrote my first book.
@@ -29,6 +21,14 @@ You can read it online.
 [View book](https://codingwitheyesclosed.com)
 
 [View on github](https://github.com/sempruijs/coding-with-eyes-closed)
+
+## Advent of code 2023
+
+I solved a lot of advent of code puzzles in 2023 with rust.
+
+You can look at my solutions in my advent of code mono repository.
+
+[View on github](https://github.com/sempruijs/aoc)
 
 ## shoelace crate
 
