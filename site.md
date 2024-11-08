@@ -48,6 +48,12 @@ Really liked the developer experience.
 This is a set of handy reproducible bash scripts.
 [View on GitHub](https://github.com/sempruijs/tools)
 
+## Binance academy
+
+I toke the binancy academy cource blockchain deep dive.
+Binance academy learned me about blockchain fundementals.
+Learned a lot from those videos.
+
 ## Coding with eyes closed
 
 I wrote my first book.
