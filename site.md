@@ -6,11 +6,15 @@ You can contact me via:
 
 
 email: contact@pruijs.net
-matrix: @qlp:matrix.org
 
 # Projects
 
 This is my whole journey until now. I started coding when I was 11 years old.
+
+## Tools
+
+This is a set of handy reproducible bash scripts.
+[View on GitHub](https://github.com/sempruijs/tools)
 
 ## Coding with eyes closed
 
