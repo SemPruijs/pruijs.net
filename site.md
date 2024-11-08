@@ -11,6 +11,38 @@ email: contact@pruijs.net
 
 This is my whole journey until now. I started coding when I was 11 years old.
 
+## Zoofpay
+
+My first Cardano DApp.
+First time I worked with Mesh, a react framework to build transactions and communicate with CIP 30 compattible wallets.
+Also first time working with react.
+
+[View on Github](https://github.com/sempruijs/zoofpay)
+[View website](https://zoofpay.com/)
+
+## User space
+
+I wrote a backend in rust and others wrote the frondend
+Used sqlx for the first time and wrote a more complicated nix flake
+
+[View on GitHub](https://github.com/sempruijs/user-space)
+
+## Stoelendans
+
+This is a website where you can get random questions to socialise more in a group.
+I worked together in a team. I wrote the typescript and CI/CD and others wrote the html and css
+
+[View on github](https://github.com/sempruijs/stoelendans)
+[View website](https://stoelendans.pruijs.net)
+
+## Json2nix
+
+A json to nix converter written in Haskell.
+This was my first time finishing a product with Haskell.
+Really liked the developer experience.
+
+[View on GitHub](https://github.com/sempruijs/json2nix)
+
 ## Tools
 
 This is a set of handy reproducible bash scripts.
